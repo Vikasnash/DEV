@@ -2,7 +2,7 @@
 An Economist by passion 
 
 **1. Clustering** \
-[Sort Note on Clustering](https://en.wikipedia.org/wiki/Cluster_analysis)
+[Sort Note on Clustering](https://en.wikipedia.org/wiki/Cluster_analysis) \
 Type of Clustering Algorithms:
 - Connectivity models: for example, hierarchical clustering builds models based on distance connectivity.
 - Centroid models: for example, the k-means algorithm represents each cluster by a single mean vector.
@@ -14,5 +14,5 @@ Type of Clustering Algorithms:
 - Signed graph models: Every path in a signed graph has a sign from the product of the signs on the edges. Under the assumptions of balance theory, edges may change sign and result in a bifurcated graph. The weaker "clusterability axiom" (no cycle has exactly one negative edge) yields results with more than two clusters, or subgraphs with only positive edges.[6]
 - Neural models: the most well known unsupervised neural network is the self-organizing map and these models can usually be characterized as similar to one or more of the above models, and including subspace models when neural networks implement a form of Principal Component Analysis or Independent Component Analysis. \
   
-There are many clustering algorithms. In fact, there are more than 100 clustering algorithms that have been published so far. However, despite the various types of clustering algorithms, they can generally be categorised into four methods. Let’s look at these briefly:
-[CLustering Algorithms](https://www.advancinganalytics.co.uk/blog/2022/6/13/10-incredibly-useful-clustering-algorithms-you-need-to-know#:~:text=Example%20of%20distribution%2Dbased%20clustering.&text=2.,is%20the%20K%2Dmeans%20algorithm.)
+There are many clustering algorithms. In fact, there are more than 100 clustering algorithms that have been published so far. However, despite the various types of clustering algorithms, they can generally be categorised into four methods. Let’s look at these briefly: \
+[Clustering Algorithms](https://www.advancinganalytics.co.uk/blog/2022/6/13/10-incredibly-useful-clustering-algorithms-you-need-to-know#:~:text=Example%20of%20distribution%2Dbased%20clustering.&text=2.,is%20the%20K%2Dmeans%20algorithm.)
