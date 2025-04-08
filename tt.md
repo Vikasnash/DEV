@@ -183,7 +183,3 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 | 10     | Recent Trends in Outlier Analysis for Transactional Data             | A review of the latest innovations and best practices in outlier detection.    | [Link](https://www.example.com/recent-outlier.pdf) |
 
 ---
-
-*Feel free to adjust the explanations and update the placeholder links with actual URLs as you build your repository. This template should provide a systematic, user–friendly way to track free research papers and books on each topic from beginner to advanced.*
-
-Happy tracking and exploring!
