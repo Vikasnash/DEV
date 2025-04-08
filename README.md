@@ -18,7 +18,6 @@ There are many clustering algorithms. In fact, there are more than 100 clusterin
 [Clustering Algorithms](https://www.advancinganalytics.co.uk/blog/2022/6/13/10-incredibly-useful-clustering-algorithms-you-need-to-know#:~:text=Example%20of%20distribution%2Dbased%20clustering.&text=2.,is%20the%20K%2Dmeans%20algorithm.)
 
 
-
 # 📝 Awesome Research Papers Tracker
 
 ## 📚 Categories
@@ -36,6 +35,12 @@ There are many clustering algorithms. In fact, there are more than 100 clusterin
 ### [GPT and Transformer Models](https://arxiv.org/abs/1810.04805)
 *Brief Explanation:* Explains the architecture and impact of transformer-based models like GPT, revolutionizing AI-driven text generation and understanding.
 
+#### 📊 Table of Papers
+| S. No. | Name of Paper                   | Small Explanation                                      | Link                                         |
+|--------|---------------------------------|--------------------------------------------------------|----------------------------------------------|
+| 1      | Deep Learning for NLP          | Overview of DL techniques for NLP tasks               | [Read Here](https://arxiv.org/abs/1706.03762) |
+| 2      | GPT and Transformer Models     | Revolutionary text generation & understanding models  | [Read Here](https://arxiv.org/abs/1810.04805) |
+
 ---
 
 ## 🌱 Climate Science
@@ -44,6 +49,12 @@ There are many clustering algorithms. In fact, there are more than 100 clusterin
 
 ### [Ocean Circulation and Global Warming](https://example.com/paper-link)
 *Brief Explanation:* Explores the interrelation between ocean currents and global warming, shedding light on rising sea levels.
+
+#### 📊 Table of Papers
+| S. No. | Name of Paper                   | Small Explanation                                      | Link                                         |
+|--------|---------------------------------|--------------------------------------------------------|----------------------------------------------|
+| 1      | Climate Change and Ecosystems  | Effects of climate change on biodiversity             | [Read Here](https://example.com/paper-link) |
+| 2      | Ocean Circulation and Global Warming | Impact of ocean currents on global warming            | [Read Here](https://example.com/paper-link) |
 
 ---
 
@@ -54,6 +65,12 @@ There are many clustering algorithms. In fact, there are more than 100 clusterin
 ### [COVID-19 Vaccine Development](https://example.com/paper-link)
 *Brief Explanation:* Chronicles the rapid development and challenges of creating effective vaccines for SARS-CoV-2.
 
+#### 📊 Table of Papers
+| S. No. | Name of Paper                   | Small Explanation                                      | Link                                         |
+|--------|---------------------------------|--------------------------------------------------------|----------------------------------------------|
+| 1      | Advances in Cancer Therapy      | Cutting-edge cancer treatment methods                 | [Read Here](https://example.com/paper-link) |
+| 2      | COVID-19 Vaccine Development    | Challenges in vaccine creation for SARS-CoV-2         | [Read Here](https://example.com/paper-link) |
+
 ---
 
 ## 🧠 Social Psychology
@@ -63,19 +80,19 @@ There are many clustering algorithms. In fact, there are more than 100 clusterin
 ### [The Psychology of Happiness](https://example.com/paper-link)
 *Brief Explanation:* Studies factors contributing to happiness and well-being, integrating insights from behavioral science.
 
+#### 📊 Table of Papers
+| S. No. | Name of Paper                   | Small Explanation                                      | Link                                         |
+|--------|---------------------------------|--------------------------------------------------------|----------------------------------------------|
+| 1      | Group Dynamics and Decision Making | Group interactions and their effect on decisions       | [Read Here](https://example.com/paper-link) |
+| 2      | The Psychology of Happiness     | Insights into factors that contribute to happiness    | [Read Here](https://example.com/paper-link) |
+
 ---
 
 ## 📌 How to Use
-1. Add new research papers to the appropriate category.
-2. Provide a clear and concise explanation alongside the link.
+1. Add new research papers to the appropriate category and fill out the table for better organization.
+2. Provide a clear and concise explanation alongside the link in both text and table.
 3. Share the tracker with colleagues or contributors via GitHub.
 
 ---
 
-## 🎨 Background Customization
-To create an eye-catching background for your GitHub repository:
-1. Design an aesthetic README header image using graphic tools like Canva.
-2. Add images or emojis to categorize sections to make the layout visually appealing.
-3. Use `HTML` in markdown for more advanced visual elements:
-```html
-<img src="header-image.png" alt="Awesome Tracker Banner" style="border-radius:10px;">
+Feel free to expand or customize this further. It's designed to help you track research papers systematically while being visually engaging! 🚀
