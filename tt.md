@@ -1,10 +1,3 @@
----
-title: "Research Papers & Free Books Tracker"
-author: "Vikas"
-date: "`r Sys.Date()`"
-output: html_document
----
-
 # Research Papers & Free Books Tracker
 
 Below are curated lists—arranged from beginner to advanced—for each of the following topics.
