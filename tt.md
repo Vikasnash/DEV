@@ -67,12 +67,14 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 | 2      | Artificial Intelligence: A Modern Approach                      | The classic textbook covering a broad range of AI topics for beginners.       | [Link](https://aima.cs.berkeley.edu/) |
 | 3      | Deep Learning for Beginners                                     | An introductory guide on applying deep learning in various AI tasks.          | [Link](https://www.deeplearningbook.org/) |
 | 4      | Reinforcement Learning: An Introduction                         | A foundational text (freely available) on the principles of RL in AI.          | [Link](http://incompleteideas.net/book/the-book.html) |
-| 5      | Probabilistic Reasoning in Intelligent Systems                    | Advanced treatment of probabilistic models and reasoning techniques in AI.    | [Link](https://www.example.com/pearl-probabilistic.pdf) |
-| 6      | Survey of Artificial Intelligence Techniques                     | A review article summarizing modern methodologies and trends in AI.            | [Link](https://www.example.com/ai-survey.pdf) |
-| 7      | Knowledge Representation and Reasoning                           | Explores methods for encoding knowledge and logical inference in AI systems.   | [Link](https://www.example.com/kr-r.pdf) |
-| 8      | Natural Language Processing using Deep Learning                   | Focuses on deep learning approaches tailored for NLP applications.           | [Link](https://www.example.com/nlp-deep.pdf) |
-| 9      | Multi-Agent Systems: Algorithms and Applications                   | Advanced resource on how multiple AI agents interact and learn collaboratively.| [Link](https://www.example.com/multi-agent.pdf) |
-| 10     | Ethics and Social Implications of AI                               | Examines the ethical and societal challenges posed by advanced AI systems.     | [Link](https://www.example.com/ai-ethics.pdf) |
+| 5      | Probabilistic Reasoning in Intelligent Systems                    | Advanced treatment of probabilistic models and reasoning techniques in AI.    | |
+| 6      | Survey of Artificial Intelligence Techniques                     | A review article summarizing modern methodologies and trends in AI.            |  |
+| 7      | Knowledge Representation and Reasoning                           | Explores methods for encoding knowledge and logical inference in AI systems.   |  |
+| 8      | Natural Language Processing using Deep Learning                   | Focuses on deep learning approaches tailored for NLP applications.           |  |
+| 9      | Multi-Agent Systems: Algorithms and Applications                   | Advanced resource on how multiple AI agents interact and learn collaboratively.|  |
+| 10     | Ethics and Social Implications of AI                               | Examines the ethical and societal challenges posed by advanced AI systems.     | |
+| 11     | Large Language Models: A Survey                                     | Explains the LLM models                                                       | [Link](https://arxiv.org/pdf/2402.06196) |
+
 
 ---
 
