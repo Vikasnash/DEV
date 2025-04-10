@@ -65,7 +65,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
 |--------|---------------------------------------------------------------|------------------------------------------------------------------------------|------|
-| 1      | A Few Useful Things to Know About Machine Learning              | Offers practical tips and key insights; ideal for ML beginners.              | [Link](https://www.example.com/few-useful-things-ml.pdf) |
+| 1      | ML Algos and Evaluation Metrics                               | Offers practical tips and key insights; ideal for ML beginners.              | [Link](https://github.com/Vikasnash/DEV/blob/master/Resource/ML%20Algos%20and%20Evaluation%20Metrics.pdf) |
 | 2      | Machine Learning Yearning by Andrew Ng                        | A project guide that helps structure ML projects (freely available).          | [Link](https://www.deeplearning.ai/machine-learning-yearning/) |
 | 3      | Learning From Data                                            | Free course notes that outline key ML principles and algorithms.             | [Link](http://work.caltech.edu/telecourse.html) |
 | 4      | Understanding Machine Learning: From Theory to Algorithms       | An in-depth introduction to ML theory with available free PDF version.       | [Link](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) |
