@@ -24,7 +24,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Econometrics {#econometrics}
+## Econometrics
 
 ### Papers & Books (Beginner to Advanced)
 | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -41,7 +41,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Statistics {#statistics}
+## Statistics
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -59,7 +59,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Machine Learning {#machine-learning}
+## Machine Learning
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -97,7 +97,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Python for Econometricians {#python-for-econometricians}
+## Python for Econometricians
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -115,8 +115,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## R for Econometricians {#r-for-econometricians}
-
+## R for Econometricians
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
 |--------|---------------------------------------------------------------|------------------------------------------------------------------------------|------|
@@ -133,7 +132,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## SAS for Programmers {#sas-for-programmers}
+## SAS for Programmers
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -151,7 +150,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Big Data and Its Tools {#big-data-and-its-tools}
+## Big Data and Its Tools
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -169,7 +168,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Credit Risk Modeling {#credit-risk-modeling}
+## Credit Risk Modeling
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
@@ -187,7 +186,7 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 
 ---
 
-## Outlier Analysis in Transactional Data {#outlier-analysis-in-transactional-data}
+## Outlier Analysis in Transactional Data
 
 ### Papers & Books (Beginner to Advanced)
 | S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
