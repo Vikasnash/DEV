@@ -27,18 +27,17 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 ## Econometrics {#econometrics}
 
 ### Papers & Books (Beginner to Advanced)
-| S. No. | Name of Paper/Book                                            | Small Explanation                                                            | Link |
-|--------|---------------------------------------------------------------|------------------------------------------------------------------------------|------|
-| 1      | Notes on Econometrics I by Grace McCormack                    | Introductory notes covering basic econometric concepts.                      | [Link](https://scholar.harvard.edu/files/gracemccormack/files/econometricsnotes.pdf) |
-| 2      | Econometrics: A Gentle Introduction                           | A free resource offering a beginner-friendly overview of econometrics.         | [Link](https://www.example.com/econometrics-gentle-intro.pdf) |
-| 3      | Basic Econometric Concepts                                    | An overview that explains key principles and common methods.                 | [Link](https://www.example.com/basic-econometrics.pdf) |
-| 4      | Linear Regression Analysis in Econometrics                    | Detailed treatment of OLS and linear regression techniques.                  | [Link](https://www.example.com/linear-regression-econometrics.pdf) |
-| 5      | Generalized Method of Moments (GMM) in Econometrics             | Introduces GMM estimation methods with examples.                             | [Link](https://www.example.com/gmm-econometrics.pdf) |
-| 6      | Instrumental Variables and Two-Stage Least Squares              | Explores IV methods and their applications in overcoming biases.             | [Link](https://www.example.com/iv-tsls-econometrics.pdf) |
-| 7      | Panel Data Econometrics                                         | Advanced methods for handling data with both cross-sectional and time‐series dimensions. | [Link](https://www.example.com/panel-data-econometrics.pdf) |
-| 8      | Time Series Analysis in Econometrics                           | Focuses on time series models and forecasting techniques.                    | [Link](https://www.example.com/time-series-econometrics.pdf) |
-| 9      | Nonparametric & Semiparametric Methods in Econometrics           | Reviews flexible approaches that relax parametric assumptions.               | [Link](https://www.example.com/nonparametric-econometrics.pdf) |
-| 10     | Recent Advances in Econometric Theory and Applications         | A state-of-the-art review of modern econometric techniques and innovations.    | [Link](https://www.example.com/advanced-econometrics.pdf) |
+| Name of Paper/Book                                            | Small Explanation                                                            | Link |
+|---------------------------------------------------------------|------------------------------------------------------------------------------|------|
+| Notes on Econometrics I by Grace McCormack                    | Introductory notes covering basic econometric concepts.                      | [Link](https://scholar.harvard.edu/files/gracemccormack/files/econometricsnotes.pdf) |
+| Basic Econometric Concepts                                    | An overview that explains key principles and common methods.                 | [Link](https://www.example.com/basic-econometrics.pdf) |
+| Linear Regression Analysis in Econometrics                    | Detailed treatment of OLS and linear regression techniques.                  | [Link](https://www.example.com/linear-regression-econometrics.pdf) |
+| Generalized Method of Moments (GMM) in Econometrics             | Introduces GMM estimation methods with examples.                             | [Link](https://www.example.com/gmm-econometrics.pdf) |
+| Instrumental Variables and Two-Stage Least Squares              | Explores IV methods and their applications in overcoming biases.             | [Link](https://www.example.com/iv-tsls-econometrics.pdf) |
+| Panel Data Econometrics                                         | Advanced methods for handling data with both cross-sectional and time‐series dimensions. | [Link](https://www.example.com/panel-data-econometrics.pdf) |
+| Time Series Analysis in Econometrics                           | Focuses on time series models and forecasting techniques.                    | [Link](https://www.example.com/time-series-econometrics.pdf) |
+| Nonparametric & Semiparametric Methods in Econometrics           | Reviews flexible approaches that relax parametric assumptions.               | [Link](https://www.example.com/nonparametric-econometrics.pdf) |
+| Recent Advances in Econometric Theory and Applications         | A state-of-the-art review of modern econometric techniques and innovations.    | [Link](https://www.example.com/advanced-econometrics.pdf) |
 
 ---
 
