@@ -187,3 +187,5 @@ Below are curated lists—arranged from beginner to advanced—for each of the f
 | 10     | Recent Trends in Outlier Analysis for Transactional Data             | A review of the latest innovations and best practices in outlier detection.    | [Link](https://www.example.com/recent-outlier.pdf) |
 
 ---
+#Clustering
+Evaluation Metrics: [Extended multivariate comparison of 68 cluster validity indices. A review](https://www.sciencedirect.com/science/article/pii/S0169743924000571)
