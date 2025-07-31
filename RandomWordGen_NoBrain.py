@@ -74,7 +74,7 @@ Torvalds is known for vocally disagreeing with other developers on the Linux ker
 On Sunday, 16 September 2018, the Linux kernel Code of Conflict was suddenly replaced by a new Code of Conduct based on the Contributor Covenant. Shortly thereafter, in the release notes for Linux 4.19-rc4, Torvalds apologized for his behavior, calling his personal attacks of the past "unprofessional and uncalled for" and announced a period of "time off" to "get some assistance on how to understand people's emotions and respond appropriately". It soon transpired that these events followed The New Yorker approaching Torvalds with a series of questions critical of his conduct.[40][41][42] Following the release of Linux 4.19 on 22 October 2018, Torvalds returned to maintaining the kernel.[43]
 """
 
-chain = Answer.MarkovChain()
+chain = MarkovChain()
 chain.train(text)
 sample_prompt = "He was"
 print(chain.generate(sample_prompt))
